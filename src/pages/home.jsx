@@ -114,19 +114,6 @@ export default function Home() {
                     )}
                     {isLoading && <div className={styles.loader}></div>}
                   </div>
-                  <div className={`${styles.bonus} ${styles.bonus2}`}>
-                    <div>
-                      <img src={ticket} alt="ticket" />
-                      <p>3 kishiga Umra ziyorati</p>
-                    </div>
-                    <div>
-                      <img src={gift} alt="gift" />
-                      <p>
-                        Televizor - Muzlatgich - Kir mashina - Gaz plita -
-                        Konditsioner - 3 kishiga
-                      </p>
-                    </div>
-                  </div>
                 </div>
               </>
             ) : (
