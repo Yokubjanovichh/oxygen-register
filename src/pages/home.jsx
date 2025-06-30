@@ -1,7 +1,5 @@
 import React, { useState, useEffect } from "react";
 import { PatternFormat } from "react-number-format";
-import ticket from "../assets/icons/ticket.svg";
-import gift from "../assets/icons/gift.svg";
 import styles from "./home.module.css";
 
 export default function Home() {

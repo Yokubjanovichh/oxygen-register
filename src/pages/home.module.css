@@ -23,69 +23,6 @@ html {
   align-items: stretch;
 }
 
-.left {
-  padding-top: 8.2rem;
-  padding-bottom: 9.1rem;
-  background: url(../assets/img/mainBG.webp);
-  background-position: bottom left;
-  background-repeat: no-repeat;
-  background-size: 100% 42rem;
-}
-
-.navbar {
-  display: flex;
-  align-items: center;
-  gap: 2rem;
-  padding-left: 5rem;
-  margin-bottom: 4.1rem;
-}
-
-.online {
-  display: flex;
-  align-items: center;
-  gap: 1.033rem;
-}
-
-.online img {
-  width: 2.66rem;
-  height: 1.6rem;
-}
-
-.navbarText {
-  font-family: "TT Firs Neue";
-  font-weight: 400;
-  font-size: 1.4rem;
-  line-height: 100%;
-  letter-spacing: 0%;
-}
-
-.price {
-  font-family: "TT Firs Neue";
-  font-weight: 800;
-  font-size: 7.5rem;
-  line-height: 3.3rem;
-  line-height: 100%;
-  letter-spacing: -6%;
-  text-transform: uppercase;
-  padding-left: 4.9rem;
-  background: linear-gradient(92.86deg, #61f677 -6.54%, #10bc2b 96.73%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
-.bodyText {
-  width: 35.4rem;
-  font-family: "TT Firs Neue";
-  font-weight: 500;
-  font-size: 2rem;
-  line-height: 2.6rem;
-  letter-spacing: 0%;
-  text-transform: uppercase;
-  color: #000;
-  padding-left: 5.4rem;
-  margin-bottom: 1.5rem;
-}
-
 .freeJoinBtn {
   width: 29rem;
   height: 6.9rem;
